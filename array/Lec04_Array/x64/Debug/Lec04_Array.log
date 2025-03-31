@@ -1,3 +1,22 @@
-﻿  array_sub.cpp
-C:\Users\USER\Desktop\data-structure-lab-2025\data-structure-lab\array\Lec04_Array\array_sub.cpp(9,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  Lec04_Array.vcxproj -> C:\Users\USER\Desktop\data-structure-lab-2025\data-structure-lab\array\Lec04_Array\x64\Debug\Lec04_Array.exe
+﻿  sportscar.cpp
+C:\Users\USER\Desktop\data-structure-lab-2025\data-structure-lab\array\Lec04_Array\sportscar.h(8,8): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  (소스 파일 'sportscar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Desktop\data-structure-lab-2025\data-structure-lab\array\Lec04_Array\sportscar.h(8,10): warning C4183: 'Car': 반환 형식이 없습니다. 'int'를 반환하는 멤버 함수로 간주됩니다.
+  (소스 파일 'sportscar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Desktop\data-structure-lab-2025\data-structure-lab\array\Lec04_Array\sportscar.h(9,3): error C2523: 'sportscar::~Car': 소멸자 태그가 일치하지 않습니다.
+  (소스 파일 'sportscar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Desktop\data-structure-lab-2025\data-structure-lab\array\Lec04_Array\sportscar.h(10,2): error C2590: 'Car': 한 생성자에만 기본/멤버 이니셜라이저 목록을 사용할 수 있습니다.
+  (소스 파일 'sportscar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Desktop\data-structure-lab-2025\data-structure-lab\array\Lec04_Array\sportscar.h(12,8): error C3861: 'strcpy': 식별자를 찾을 수 없습니다.
+  (소스 파일 'sportscar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Desktop\data-structure-lab-2025\data-structure-lab\array\Lec04_Array\sportscar.h(22,3): error C3861: 'printf': 식별자를 찾을 수 없습니다.
+  (소스 파일 'sportscar.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Desktop\data-structure-lab-2025\data-structure-lab\array\Lec04_Array\sportscar.h(24,20): error C3861: 'printf': 식별자를 찾을 수 없습니다.
+  (소스 파일 'sportscar.cpp'을(를) 컴파일하는 중)
+  

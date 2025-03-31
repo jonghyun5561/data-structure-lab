@@ -1,0 +1,4 @@
+﻿  배열.cpp
+C:\Users\USER\Desktop\data-structure-lab-2025\data-structure-lab\Project1\배열.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\USER\Desktop\data-structure-lab-2025\data-structure-lab\Project1\배열.cpp(7,20): error C2065: 'MAX_SIZE': 선언되지 않은 식별자입니다.
+C:\Users\USER\Desktop\data-structure-lab-2025\data-structure-lab\Project1\배열.cpp(8,10): error C3863: 배열 형식 'int [0]'은(는) 할당할 수 없습니다.
