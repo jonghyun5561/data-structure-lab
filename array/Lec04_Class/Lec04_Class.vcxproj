@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClInclude Include="Car.h" />
     <ClInclude Include="Complex.h" />
+    <ClInclude Include="sportscar.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />

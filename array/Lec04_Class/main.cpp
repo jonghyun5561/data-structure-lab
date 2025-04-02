@@ -1,5 +1,8 @@
+
 #include "Complex.h"
 #include "Car.h"
+#include "sportscar.h"
+
 
 int main()
 {
@@ -9,6 +12,8 @@ int main()
 
 	Car myCar;
 	Car momsCar(10, "K5", 2);
+	SportsCar mySecondCar;
+	
 
 	myCar.whereAmI();
 	momsCar.whereAmI();
@@ -16,4 +21,7 @@ int main()
 	momsCar.speedUp();
 	momsCar.display();
 
+	mySecondCar.setTurbo(true);
+
+	
 }
